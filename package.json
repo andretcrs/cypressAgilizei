@@ -1,0 +1,16 @@
+{
+  "name": "cypress-direto-ao-ponto",
+  "version": "1.0.0",
+  "description": "Cypress direto ao ponto",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "André Jaeger Scheffer",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.13.0"
+  }
+}
